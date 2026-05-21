@@ -1,14 +1,1 @@
-<m-character id="shark-avatar" src="https://blush-tired-albatross-183.mypinata.cloud/ipfs/bafybeibjqum7xrfwaceoaggx5sozr2rd73ixsadx3ykznlpmxs7y7wn2he"></m-character>
-
-<script>
-  // Dynamically grab the token ID passed by the metaverse viewer/marketplace URL
-  const urlParams = new URLSearchParams(window.location.search);
-  const tokenId = urlParams.get('tokenId') || urlParams.get('id') || '1';
-  
-  // Apply the token ID directly to the character element attributes
-  const characterElement = document.getElementById('shark-avatar');
-  if (characterElement) {
-    characterElement.setAttribute('token-id', tokenId);
-    console.log(`Successfully initialized MML asset with Token ID: ${tokenId}`);
-  }
-</script>
+<m-character src="https://blush-tired-albatross-183.mypinata.cloud/ipfs/bafybeibjqum7xrfwaceoaggx5sozr2rd73ixsadx3ykznlpmxs7y7wn2he" id="bobland-1" name="Bobland #1"></m-character>
