@@ -1,4 +1,4 @@
-<m-character id="shark-avatar" src="bafybeibjqum7xrfwaceoaggx5sozr2rd73ixsadx3ykznlpmxs7y7wn2he"></m-character>
+<m-character id="shark-avatar" src="https://blush-tired-albatross-183.mypinata.cloud/ipfs/bafybeibjqum7xrfwaceoaggx5sozr2rd73ixsadx3ykznlpmxs7y7wn2he"></m-character>
 
 <script>
   // Dynamically grab the token ID passed by the metaverse viewer/marketplace URL
