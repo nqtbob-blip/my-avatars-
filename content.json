@@ -1,0 +1,38 @@
+{
+  "siteName": "BOBACITO",
+  "heroTitle": "Enter the Next Dimension",
+  "heroSubtitle": "A digital ecosystem built for creators, rebels, and Web3 visionaries. Claim your stake. HUH? I DONT THINK THATS WHAT I ASKED.",
+  "ctaText": "Explore Ecosystem",
+  "ctaLink": "https://tse1.mm.bing.net/th/id/OIP.akzU_e1folDPFqq99ULvpAHaJx?rs=1&pid=ImgDetMain&o=7&rm=3",
+  "customScripts": [
+    "https://cdn.jsdelivr.net/npm/ethers@5.7.2/dist/ethers.umd.min.js"
+  ],
+  "navLinks": [
+    {
+      "label": "Home",
+      "url": "#"
+    },
+    {
+      "label": "Mint",
+      "url": "https://openpage.fun/communities/bob-land"
+    },
+    {
+      "label": "Ecosystem",
+      "url": "https://boob2.bobacito.xyz/#eco-panel"
+    }
+  ],
+  "sections": [
+    {
+      "id": "mint-panel",
+      "title": "Live Minting Dashboard",
+      "description": "Connect your wallet to mint your dynamic assets directly into the metaverse.",
+      "visible": false
+    },
+    {
+      "id": "eco-panel",
+      "title": "Bobland Hub",
+      "description": "Review architecture maps, token status, and localized file integrations.",
+      "visible": false
+    }
+  ]
+}
